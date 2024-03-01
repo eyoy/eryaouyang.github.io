@@ -23,7 +23,7 @@ Xueming Luo, Nan Jia, <strong>Erya Ouyang</strong>, Zheng Fang<br>
 <h2>Working Papers</h2>
 1. <strong>Music Motion Synergy: A Crossmodal Transformer model of Multifaceted Customer Engagement with Social Media Videos</strong><br>
 
-   <strong>Erya Ouyang</strong><br>, Wen Wang, Xueming Luo
+   <strong>Erya Ouyang</strong>, Wen Wang, Xueming Luo
 
    <em>Management Science Reject & Resubmit</em><br><br>
 
