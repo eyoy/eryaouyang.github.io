@@ -9,12 +9,15 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="Publications">
 <h2>Publication</h2>
-1. <strong>Introducing Machine-Learning-Based Data Fusion Methods for Analyzing Multimodal Data: An Application of Measuring Trustworthiness of 
-   Microenterprises</strong><br>
+
+<span style="color:green;font-weight:700;font-size:20px">
+Introducing Machine-Learning-Based Data Fusion Methods for Analyzing Multimodal Data: An Application of Measuring Trustworthiness of Microenterprises
+</span>
+<strong>Introducing Machine-Learning-Based Data Fusion Methods for Analyzing Multimodal Data: An Application of Measuring Trustworthiness of Microenterprises</strong><br>
        
-   Xueming Luo, Nan Jia, <strong>Erya Ouyang</strong>, Zheng Fang<br>
+Xueming Luo, Nan Jia, <strong>Erya Ouyang</strong>, Zheng Fang<br>
    
-   <em>Strategic Management Journal (Accepted)</em><br><br>
+<em>Strategic Management Journal (Accepted)</em><br><br>
 
 
 </div>
