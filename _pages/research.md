@@ -10,7 +10,7 @@ nav_order: 2
 <div class="Publications">
 <h2>Publication</h2>
 
-<h3>Introducing Machine-Learning-Based Data Fusion Methods for Analyzing Multimodal Data: An Application of Measuring Trustworthiness of Microenterprises</h3><br>
+<h5><strong>Introducing Machine-Learning-Based Data Fusion Methods for Analyzing Multimodal Data: An Application of Measuring Trustworthiness of Microenterprises</strong>strong></h5><br>
        
 Xueming Luo, Nan Jia, <strong>Erya Ouyang</strong>, Zheng Fang<br>
    
@@ -21,7 +21,7 @@ Xueming Luo, Nan Jia, <strong>Erya Ouyang</strong>, Zheng Fang<br>
 
 <div class="Working Papers">
 <h2>Working Papers</h2>
-1. <h4>Music Motion Synergy: A Crossmodal Transformer model of Multifaceted Customer Engagement with Social Media Videos</h4><br>
+1. <h5><strong>Music Motion Synergy: A Crossmodal Transformer model of Multifaceted Customer Engagement with Social Media Videos</strong></h5><br>
 
    <strong>Erya Ouyang</strong>, Wen Wang, Xueming Luo<br>
 
