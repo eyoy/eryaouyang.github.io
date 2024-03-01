@@ -13,6 +13,4 @@ nav_order: 2
   Xueming Luo, Nan Jia, **Erya Ouyang**, Zheng Fang
   *Strategic Management Journal (Accepted)*
 
-{% bibliography -f {{ site.scholar.bibliography }} %}
-
 </div>
