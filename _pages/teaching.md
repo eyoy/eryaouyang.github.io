@@ -8,5 +8,5 @@ nav_order: 5
 
 | School | Course | Semester(s) |
 |--------|--------|-------------|
-| Rutgers University | Digital Marketing | Fall 2025 - |
+| Rutgers University | Digital Marketing | Fall 2025 - Present |
 | Temple University | Customer Data Analytics using Python | Fall 2023 |
