@@ -21,7 +21,7 @@ Alexander Chaudhry, Yang Wang, and **Erya Ouyang**. "<a href="https://doi.org/10
 
 **Erya Ouyang**, Wen Wang, and Xueming Luo. "Crossmodal Synergy: An Outcome-Guided Framework for Measuring Multimodal Alignment in Marketing Content."
 
-**Erya Ouyang**<sup>*</sup> and Jin Ai<sup>*</sup>. "Multimodal Persuasion and Evidence-based LLM in Charitable Fundraising."
-<p style="font-size: 0.8em;"><sup>*</sup>These authors contributed equally to this work.</p>
+<p style="margin-bottom: 0;"><strong>Erya Ouyang</strong><sup>*</sup> and Jin Ai<sup>*</sup>. "Multimodal Persuasion and Evidence-based LLM in Charitable Fundraising."</p>
+<p style="margin-top: 0.1em; font-size: 0.8em;"><sup>*</sup>These authors contributed equally to this work.</p>
 
 **Erya Ouyang** and Jin Ai. "Transforming Digital Attention into Social Action: The Effectiveness of NPO Campaigns in Social Media."
